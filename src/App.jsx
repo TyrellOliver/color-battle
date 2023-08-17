@@ -11,6 +11,7 @@ function App() {
       <div>
         <header>
           <h1>Color Battle</h1>
+          Rose's Line 
         </header>
       </div>
     </>
